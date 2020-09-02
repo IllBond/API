@@ -1,13 +1,10 @@
 {
-	"status": "ok",
-	"totalResults": 30,
 	"articles": [{
 			"source": {
-				"id": null,
 				"name": "Tsn.ua"
 			},
 			"author": "ТСН Редакція",
-			"title": "Зірка серіалу \"Вороніни\" пішов з життя - TSN UA",
+			"title": "Зірка серіалу Вороніни пішов з життя - TSN UA",
 			"description": "",
 			"url": "https://tsn.ua/svit/zirka-serialu-voronini-pishov-z-zhittya-1617388.html",
 			"urlToImage": "https://img.tsn.ua/cached/1598988613/tsn-1bfeaf6125141ee06e055fc61b5a2fa6/thumbs/1200x630/0a/ed/c0ce8413943262fd07b0936639b7ed0a.jpeg",
@@ -15,7 +12,6 @@
 		},
 		{
 			"source": {
-				"id": null,
 				"name": "Pravda.com.ua"
 			},
 			"author": "Українська правда",
@@ -27,7 +23,6 @@
 		},
 		{
 			"source": {
-				"id": null,
 				"name": "Unn.com.ua"
 			},
 			"author": "Валерія Гуржий",
@@ -39,10 +34,8 @@
 		},
 		{
 			"source": {
-				"id": null,
 				"name": "Prm.ua"
 			},
-			"author": null,
 			"title": "В Україні можуть оголосити канікули для школярів на час місцевих виборів — Степанов - Прямий",
 			"description": "Під час місцевих виборів для забезпечення роботи виборчих комісій, які часто розташовуються в приміщеннях шкіл, для учнів можуть зробити короткі канікули.",
 			"url": "https://prm.ua/v-ukrayini-mozhut-ogolositi-kanikuli-dlya-shkolyariv-na-chas-mistsevih-viboriv-stepanov/",
@@ -51,7 +44,6 @@
 		},
 		{
 			"source": {
-				"id": null,
 				"name": "Radiosvoboda.org"
 			},
 			"author": "Радіо Свобода",
@@ -63,7 +55,6 @@
 		},
 		{
 			"source": {
-				"id": null,
 				"name": "Unian.ua"
 			},
 			"author": "УНІАН редакція",
@@ -75,10 +66,9 @@
 		},
 		{
 			"source": {
-				"id": null,
 				"name": "Samsung.com"
 			},
-			"author": null,
+			"author": "Unian.ua",
 			"title": "Представляємо Galaxy Z Fold2 – гнучкий смартфон, що змініть форму майбутнього - Samsung Newsroom Ukraine",
 			"description": "Galaxy Z Fold2 – третє покоління гнучких пристроїв Samsung. У ньому поєднуються",
 			"url": "https://news.samsung.com/ua/galaxy-z-fold2",
